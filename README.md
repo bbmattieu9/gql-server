@@ -1,2 +1,2 @@
 # gql-server
-a simple graphQl and NocerJS app
+a simple graphQl and NodeJS app
